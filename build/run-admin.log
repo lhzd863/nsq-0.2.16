@@ -1,0 +1,48 @@
+2019/04/01 23:11:18 nsqadmin v0.2.16
+2019/04/01 23:11:18 HTTP: listening on [::]:4171
+2019/04/01 23:11:25 LOOKUPD: querying http://192.168.1.189:4161/nodes
+2019/04/01 23:11:28 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/01 23:11:33 LOOKUPD: querying http://192.168.1.189:4161/create_topic?topic=test
+2019/04/01 23:11:33 LOOKUPD: querying http://192.168.1.189:4161/create_channel?topic=test&channel=test
+2019/04/01 23:11:33 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+2019/04/01 23:11:33 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/01 23:11:33 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+2019/04/01 23:11:33 LOOKUPD: querying http://192.168.1.189:4161/channels?topic=test
+2019/04/01 23:11:35 LOOKUPD: querying http://192.168.1.189:4161/nodes
+2019/04/01 23:11:43 LOOKUPD: querying http://192.168.1.189:4161/nodes
+2019/04/01 23:11:43 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:11:44 LOOKUPD: querying http://192.168.1.189:4161/nodes
+2019/04/01 23:11:46 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/01 23:11:46 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:11:52 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/01 23:11:54 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/01 23:11:54 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:11:56 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/01 23:11:56 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:12:02 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/01 23:12:02 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:12:02 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/01 23:12:04 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/01 23:12:04 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:12:06 LOOKUPD: querying http://192.168.1.189:4161/nodes
+2019/04/01 23:12:06 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:12:06 LOOKUPD: querying http://192.168.1.189:4161/nodes
+2019/04/01 23:12:08 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/01 23:12:08 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/01 23:12:10 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/01 23:12:10 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/02 13:28:14 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/02 21:28:02 LOOKUPD: querying http://192.168.1.189:4161/topics
+2019/04/02 21:28:04 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/02 21:28:04 NSQD: querying http://osa189:4151/stats?format=json
+2019/04/02 21:28:07 LOOKUPD: querying http://192.168.1.189:4161/lookup?topic=test
+osa189:4151
+2019/04/02 21:28:07 NSQD: querying http://osa189:4151/stats?format=json
