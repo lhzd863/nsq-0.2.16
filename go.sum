@@ -1,0 +1,5 @@
+github.com/bitly/go-notify v0.0.0-20130217044602-0a148b8111d6 h1:ybynk3s3i+9K288wkO0umbIyMSEE+MktDHFLfLo2yEc=
+github.com/bitly/go-notify v0.0.0-20130217044602-0a148b8111d6/go.mod h1:zL/tIQvZCBq2zM4ta8HeCRQsjppFaCbpZfd+JNwKNC4=
+github.com/bitly/go-simplejson v0.5.0 h1:6IH+V8/tVMab511d5bn4M7EwGXZf9Hj6i2xSwkNEM+Y=
+github.com/bitly/go-simplejson v0.5.0/go.mod h1:cXHtHw4XUPsvGaxgjIAn8PhEWG9NfngEKAMDJEczWVA=
+github.com/nsqio/nsq v1.2.0 h1:inbQG4LAl8PpMMZAUi0FhLvjQ+57wOfPzWczVFdng7Q=

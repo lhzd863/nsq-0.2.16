@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/nsqio/nsq/util/semver"
+	"github.com/lhzd863/nsq-0.2.16/util/semver"
 	"fmt"
 	"sort"
 	"time"

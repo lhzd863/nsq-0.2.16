@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/nsqio/nsq/nsq"
-	"github.com/nsqio/nsq/util"
-	"github.com/nsqio/nsq/util/semver"
+	"github.com/lhzd863/nsq-0.2.16/nsq"
+	"github.com/lhzd863/nsq-0.2.16/util"
+	"github.com/lhzd863/nsq-0.2.16/util/semver"
 	"errors"
 	"fmt"
 	"log"

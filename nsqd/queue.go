@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/nsqio/nsq/nsq"
-	"github.com/nsqio/nsq/util/pqueue"
+	"github.com/lhzd863/nsq-0.2.16/nsq"
+	"github.com/lhzd863/nsq-0.2.16/util/pqueue"
 	"bytes"
 	"log"
 )

@@ -10,7 +10,7 @@ package main
 // behavior when sequences rollover for our specific implementation needs
 
 import (
-	"github.com/nsqio/nsq/nsq"
+	"github.com/lhzd863/nsq-0.2.16/nsq"
 	"encoding/hex"
 	"errors"
 	"time"
