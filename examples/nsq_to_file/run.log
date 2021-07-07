@@ -1,6 +1,11 @@
-2021/07/07 19:45:30 starting AsyncHandler go-routine
-2021/07/07 19:45:30 lookupd addr 127.0.0.1:4161
-2021/07/07 19:45:30 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
-2021/07/07 19:45:30 ERROR: lookupd 127.0.0.1:4161 - response status_code == 500
-2021/07/07 19:46:00 old  new test.10-23-221-156.2021-07-07_19.log
-2021/07/07 19:46:00 opening ./tmp/test.10-23-221-156.2021-07-07_19.log
+2021/07/07 19:54:23 starting AsyncHandler go-routine
+2021/07/07 19:54:23 lookupd addr 127.0.0.1:4161
+2021/07/07 19:54:23 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+2021/07/07 19:54:23 [10-23-221-156:4150] connecting to nsqd
+2021/07/07 19:54:53 old  new test.10-23-221-156.2021-07-07_19.log
+2021/07/07 19:54:53 opening ./tmp/test.10-23-221-156.2021-07-07_19.log
+2021/07/07 19:54:53 [10-23-221-156:4150] received heartbeat from nsqd
+2021/07/07 19:55:23 syncing 2 records to disk
+2021/07/07 19:55:23 [10-23-221-156:4150] received heartbeat from nsqd
+2021/07/07 19:55:53 syncing 1 records to disk
+2021/07/07 19:55:53 [10-23-221-156:4150] received heartbeat from nsqd
