@@ -1,0 +1,8 @@
+2021/07/07 19:39:05 nsqadmin v0.2.16
+2021/07/07 19:39:05 HTTP: listening on [::]:4171
+2021/07/07 19:39:55 NSQD: querying http://[]/stats?format=json
+2021/07/07 19:39:55 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
+2021/07/07 19:40:04 NSQD: querying http://[]/stats?format=json
+2021/07/07 19:40:04 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
+2021/07/07 19:40:08 NSQD: querying http://[]/stats?format=json
+2021/07/07 19:40:08 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config

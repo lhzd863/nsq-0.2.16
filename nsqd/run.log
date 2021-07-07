@@ -1,0 +1,35 @@
+2021/07/07 19:39:33 nsqd v0.2.16
+2021/07/07 19:39:33 worker id 648
+2021/07/07 19:39:33 HTTP: listening on [::]:4151
+2021/07/07 19:39:33 LOOKUP: adding peer 127.0.0.1:4160
+2021/07/07 19:39:33 LOOKUP connecting to 127.0.0.1:4160
+2021/07/07 19:39:33 TCP: listening on [::]:4150
+2021/07/07 19:39:33 LOOKUPD(127.0.0.1:4160): peer info {TcpPort:4160 HttpPort:4161 Version:0.2.16 Address:10-23-221-156}
+2021/07/07 19:39:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:40:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:40:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:40:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:40:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:41:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:41:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:41:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:41:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:42:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:42:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:42:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:42:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:43:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:43:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:43:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:43:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:44:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:44:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:44:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:44:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:45:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:45:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:45:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:45:48 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:46:03 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:46:18 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/07 19:46:33 LOOKUPD(127.0.0.1:4160): sending heartbeat
