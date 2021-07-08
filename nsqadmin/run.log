@@ -12,3 +12,9 @@
 2021/07/07 19:49:22 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
 2021/07/07 19:49:28 NSQD: querying http://[]/stats?format=json
 2021/07/07 19:49:28 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
+2021/07/07 19:56:55 NSQD: querying http://[]/stats?format=json
+2021/07/07 19:56:55 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
+2021/07/07 19:57:01 NSQD: querying http://[]/stats?format=json
+2021/07/07 19:57:01 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
+2021/07/08 14:29:44 NSQD: querying http://[]/stats?format=json
+2021/07/08 14:29:44 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
