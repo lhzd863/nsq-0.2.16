@@ -22,3 +22,42 @@
 10-23-221-156:4151
 2021/07/08 15:12:06 NSQD: querying http://10-23-221-156:4151/stats?format=json
 2021/07/08 15:12:11 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:21:27 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:21:29 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 16:21:34 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:21:34 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:21:35 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 16:21:38 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:21:38 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:21:40 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 16:21:43 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:21:43 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 16:21:51 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:21:51 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:21:58 LOOKUPD: querying http://127.0.0.1:4161/create_topic?topic=test
+2021/07/08 16:21:58 LOOKUPD: querying http://127.0.0.1:4161/create_channel?topic=test&channel=test
+2021/07/08 16:21:58 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:21:58 NSQD: querying http://10-23-221-156:4151/create_channel?topic=test&channel=test
+2021/07/08 16:21:59 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:21:59 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:22:00 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:22:01 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 16:22:03 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 16:22:03 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:22:05 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 16:22:07 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:22:07 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 16:22:38 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 16:22:38 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 18:35:22 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 18:35:22 NSQD: querying http://10-23-221-156:4151/stats?format=json

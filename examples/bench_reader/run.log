@@ -1,0 +1,9 @@
+panic: unexpected EOF
+
+goroutine 6 [running]:
+main.subWorker(0xf4240, 0x2, 0x7ffc99dcf263, 0xe, 0x7ffc99dcf27a, 0x4, 0x7ffc99dcf289, 0x4, 0xc00006a120, 0xc00006a0c0, ...)
+	/home/aya/workspace-go/nsq-0.2.16/examples/bench_reader/bench_reader.go:85 +0xc1f
+main.main.func1(0x2, 0xc00006a120, 0xc00006a0c0, 0xc0000164f0, 0x0)
+	/home/aya/workspace-go/nsq-0.2.16/examples/bench_reader/bench_reader.go:32 +0xa7
+created by main.main
+	/home/aya/workspace-go/nsq-0.2.16/examples/bench_reader/bench_reader.go:31 +0x173

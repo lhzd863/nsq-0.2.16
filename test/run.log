@@ -1,0 +1,9 @@
+API server listening at: [::]:2345
+2021-07-08T17:54:13+08:00 info layer=debugger launching process with args: [/home/aya/workspace-go/nsq-0.2.16/test/__debug_bin]
+2021-07-08T17:54:22+08:00 debug layer=debugger continuing
+2021/07/08 17:54:22 starting Handler go-routine
+2021/07/08 17:54:22 [106.75.249.244:4160] connecting to nsqd
+2021/07/08 17:54:22 connected to NSQ <nil>
+2021/07/08 17:54:22 Stopping reader
+2021-07-08T17:54:22+08:00 debug layer=debugger continuing
+2021-07-08T17:54:22+08:00 debug layer=debugger detaching
