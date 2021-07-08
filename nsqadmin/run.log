@@ -1,20 +1,24 @@
-2021/07/07 19:39:05 nsqadmin v0.2.16
-2021/07/07 19:39:05 HTTP: listening on [::]:4171
-2021/07/07 19:39:55 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:39:55 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:40:04 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:40:04 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:40:08 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:40:08 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:47:10 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:47:10 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:49:22 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:49:22 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:49:28 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:49:28 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:56:55 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:56:55 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/07 19:57:01 NSQD: querying http://[]/stats?format=json
-2021/07/07 19:57:01 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
-2021/07/08 14:29:44 NSQD: querying http://[]/stats?format=json
-2021/07/08 14:29:44 ERROR: lookupd http://[]/stats?format=json - Get "https://[]/stats?format=json": tls: either ServerName or InsecureSkipVerify must be specified in the tls.Config
+2021/07/08 15:10:27 nsqadmin v0.2.16
+2021/07/08 15:10:27 HTTP: listening on [::]:4171
+2021/07/08 15:10:36 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 15:10:40 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 15:10:40 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 15:10:43 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 15:10:45 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 15:10:45 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 15:10:56 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 15:10:59 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 15:11:02 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 15:11:02 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 15:11:14 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 15:11:14 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 15:11:51 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 15:11:53 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 15:12:06 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 15:12:06 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 15:12:11 LOOKUPD: querying http://127.0.0.1:4161/topics

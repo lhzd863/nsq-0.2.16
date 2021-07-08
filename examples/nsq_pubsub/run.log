@@ -1,1 +1,67 @@
 2021/07/08 14:18:08 listening on 0.0.0.0:12329
+2021/07/08 14:59:09 [58.215.108.75:64391] new connection
+2021/07/08 14:59:09 starting Handler go-routine
+2021/07/08 14:59:09 [127.0.0.1:4160] connecting to nsqd
+2021/07/08 14:59:09 connected to NSQ <nil>
+2021/07/08 14:59:09 [127.0.0.1:4160] unknown message type 1163870785
+2021/07/08 14:59:28 [58.215.108.75:65089] new connection
+2021/07/08 14:59:28 starting Handler go-routine
+2021/07/08 14:59:28 [127.0.0.1:4160] connecting to nsqd
+2021/07/08 14:59:28 connected to NSQ <nil>
+2021/07/08 14:59:28 [127.0.0.1:4160] unknown message type 1163870785
+2021/07/08 14:59:30 got connection err EOF
+2021/07/08 14:59:30 Stopping reader
+2021/07/08 15:00:00 closing incomingMessages
+2021/07/08 15:00:00 closing Handler (after self.incomingMessages closed)
+2021/07/08 15:00:09 [127.0.0.1:4160] error reading response read tcp 127.0.0.1:52272->127.0.0.1:4160: i/o timeout
+2021/07/08 15:00:09 [127.0.0.1:4160] beginning stopFinishLoop logic
+2021/07/08 15:00:09 [127.0.0.1:4160] breaking out of finish loop 
+2021/07/08 15:00:09 there are 0 connections left alive
+2021/07/08 15:00:09 [127.0.0.1:4160] stopped read loop 
+2021/07/08 15:00:28 [127.0.0.1:4160] error reading response read tcp 127.0.0.1:52314->127.0.0.1:4160: i/o timeout
+2021/07/08 15:00:28 [127.0.0.1:4160] beginning stopFinishLoop logic
+2021/07/08 15:00:28 [127.0.0.1:4160] breaking out of finish loop 
+2021/07/08 15:00:28 there are 0 connections left alive
+2021/07/08 15:00:28 closing incomingMessages
+2021/07/08 15:00:28 [127.0.0.1:4160] stopped read loop 
+2021/07/08 15:00:28 closing Handler (after self.incomingMessages closed)
+2021/07/08 15:00:28 got connection err read tcp 10.23.221.156:12329->58.215.108.75:65089: use of closed network connection
+2021/07/08 15:00:39 [58.215.108.75:53402] new connection
+2021/07/08 15:00:39 starting Handler go-routine
+2021/07/08 15:00:39 [127.0.0.1:4160] connecting to nsqd
+2021/07/08 15:00:39 connected to NSQ <nil>
+2021/07/08 15:00:39 [127.0.0.1:4160] unknown message type 1163870785
+2021/07/08 15:01:39 [127.0.0.1:4160] error reading response read tcp 127.0.0.1:52458->127.0.0.1:4160: i/o timeout
+2021/07/08 15:01:39 [127.0.0.1:4160] beginning stopFinishLoop logic
+2021/07/08 15:01:39 [127.0.0.1:4160] breaking out of finish loop 
+2021/07/08 15:01:39 there are 0 connections left alive
+2021/07/08 15:01:39 closing incomingMessages
+2021/07/08 15:01:39 [127.0.0.1:4160] stopped read loop 
+2021/07/08 15:01:39 closing Handler (after self.incomingMessages closed)
+2021/07/08 15:01:39 got connection err read tcp 10.23.221.156:12329->58.215.108.75:53402: use of closed network connection
+2021/07/08 15:02:30 [58.215.108.75:6705] new connection
+2021/07/08 15:02:30 starting Handler go-routine
+2021/07/08 15:02:30 [127.0.0.1:4160] connecting to nsqd
+2021/07/08 15:02:30 connected to NSQ <nil>
+2021/07/08 15:02:30 [127.0.0.1:4160] unknown message type 1163870785
+2021/07/08 15:02:34 [127.0.0.1:4160] error reading response read tcp 127.0.0.1:52676->127.0.0.1:4160: read: connection reset by peer
+2021/07/08 15:02:34 [127.0.0.1:4160] beginning stopFinishLoop logic
+2021/07/08 15:02:34 there are 0 connections left alive
+2021/07/08 15:02:34 closing incomingMessages
+2021/07/08 15:02:34 [127.0.0.1:4160] stopped read loop 
+2021/07/08 15:02:34 closing Handler (after self.incomingMessages closed)
+2021/07/08 15:02:34 got connection err read tcp 10.23.221.156:12329->58.215.108.75:6705: use of closed network connection
+2021/07/08 15:02:34 [127.0.0.1:4160] breaking out of finish loop 
+2021/07/08 15:02:46 [58.215.108.75:52625] new connection
+2021/07/08 15:02:46 starting Handler go-routine
+2021/07/08 15:02:46 [127.0.0.1:4160] connecting to nsqd
+2021/07/08 15:02:46 connected to NSQ <nil>
+2021/07/08 15:02:46 [127.0.0.1:4160] unknown message type 1163870785
+2021/07/08 15:03:46 [127.0.0.1:4160] error reading response read tcp 127.0.0.1:52712->127.0.0.1:4160: i/o timeout
+2021/07/08 15:03:46 [127.0.0.1:4160] beginning stopFinishLoop logic
+2021/07/08 15:03:46 [127.0.0.1:4160] breaking out of finish loop 
+2021/07/08 15:03:46 there are 0 connections left alive
+2021/07/08 15:03:46 closing incomingMessages
+2021/07/08 15:03:46 [127.0.0.1:4160] stopped read loop 
+2021/07/08 15:03:46 closing Handler (after self.incomingMessages closed)
+2021/07/08 15:03:46 got connection err read tcp 10.23.221.156:12329->58.215.108.75:52625: use of closed network connection
