@@ -61,3 +61,33 @@
 2021/07/08 18:35:22 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
 10-23-221-156:4151
 2021/07/08 18:35:22 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 22:51:47 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:51:52 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 22:51:52 NSQD: querying http://10-23-221-156:4151/stats?format=json
+2021/07/08 22:51:55 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+10-23-221-156:4151
+2021/07/08 22:51:55 LOOKUPD: querying http://127.0.0.1:4161/delete_topic?topic=test
+2021/07/08 22:51:55 NSQD: querying http://10-23-221-156:4151/delete_topic?topic=test
+2021/07/08 22:51:56 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:01 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 22:52:07 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 22:52:08 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/08 22:52:13 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:17 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:20 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:29 LOOKUPD: querying http://127.0.0.1:4161/create_topic?topic=test
+2021/07/08 22:52:29 LOOKUPD: querying http://127.0.0.1:4161/create_channel?topic=test&channel=test
+2021/07/08 22:52:29 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+2021/07/08 22:52:33 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:33 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+2021/07/08 22:52:33 LOOKUPD: querying http://127.0.0.1:4161/channels?topic=test
+2021/07/08 22:52:40 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:44 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+2021/07/08 22:52:48 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+2021/07/08 22:52:58 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/08 22:52:58 LOOKUPD: querying http://127.0.0.1:4161/lookup?topic=test
+2021/07/08 22:52:58 LOOKUPD: querying http://127.0.0.1:4161/channels?topic=test
+2021/07/08 23:32:45 LOOKUPD: querying http://127.0.0.1:4161/nodes
+2021/07/09 02:09:59 LOOKUPD: querying http://127.0.0.1:4161/topics
+2021/07/09 02:09:59 LOOKUPD: querying http://127.0.0.1:4161/topics

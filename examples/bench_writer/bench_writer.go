@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../../nsq"
+	"github.com/lhzd863/nsq-0.2.16/nsq"
 	"bufio"
 	"bytes"
 	"flag"
