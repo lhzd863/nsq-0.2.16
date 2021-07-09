@@ -278,3 +278,131 @@
 2021/07/09 14:25:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
 2021/07/09 14:26:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
 2021/07/09 14:26:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:26:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:26:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:27:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:27:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:27:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:27:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:28:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:28:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:28:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:28:49 TCP: new client(127.0.0.1:53758)
+2021/07/09 14:28:49 CLIENT(127.0.0.1:53758): desired protocol 538990130
+2021/07/09 14:28:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:29:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:29:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:29:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:29:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:30:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:30:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:30:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:30:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:31:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:31:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:31:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:31:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:32:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:32:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:32:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:32:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:33:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:33:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:33:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:33:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:34:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:34:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:34:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:34:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:34:51 PROTOCOL(V2): [127.0.0.1:53758] exiting ioloop
+2021/07/09 14:34:51 ERROR: client(127.0.0.1:53758) - EOF
+2021/07/09 14:34:51 PROTOCOL(V2): [127.0.0.1:53758] exiting messagePump
+2021/07/09 14:35:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:35:07 TCP: new client(127.0.0.1:53784)
+2021/07/09 14:35:07 CLIENT(127.0.0.1:53784): desired protocol 538990130
+2021/07/09 14:35:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:35:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:35:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:36:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:36:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:36:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:36:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:37:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:37:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:37:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:37:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:38:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:38:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:38:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:38:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:39:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:39:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:39:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:39:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:40:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:40:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:40:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:40:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:41:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:41:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:41:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:41:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:42:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:42:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:42:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:42:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:43:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:43:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:43:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:43:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:44:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:44:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:44:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:44:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:45:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:45:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:45:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:45:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:46:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:46:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:46:31 PROTOCOL(V2): [127.0.0.1:53784] exiting ioloop
+2021/07/09 14:46:31 ERROR: client(127.0.0.1:53784) - EOF
+2021/07/09 14:46:31 PROTOCOL(V2): [127.0.0.1:53784] exiting messagePump
+2021/07/09 14:46:34 TCP: new client(127.0.0.1:53818)
+2021/07/09 14:46:34 CLIENT(127.0.0.1:53818): desired protocol 538990130
+2021/07/09 14:46:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:46:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:47:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:47:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:47:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:47:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:48:03 PROTOCOL(V2): [127.0.0.1:53818] exiting ioloop
+2021/07/09 14:48:03 ERROR: client(127.0.0.1:53818) - EOF
+2021/07/09 14:48:03 PROTOCOL(V2): [127.0.0.1:53818] exiting messagePump
+2021/07/09 14:48:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:48:07 TCP: new client(127.0.0.1:53826)
+2021/07/09 14:48:07 CLIENT(127.0.0.1:53826): desired protocol 538990130
+2021/07/09 14:48:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:48:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:48:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:49:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:49:09 PROTOCOL(V2): [127.0.0.1:53826] exiting ioloop
+2021/07/09 14:49:09 ERROR: client(127.0.0.1:53826) - EOF
+2021/07/09 14:49:09 PROTOCOL(V2): [127.0.0.1:53826] exiting messagePump
+2021/07/09 14:49:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:49:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:49:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:50:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:50:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:50:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:50:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:51:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:51:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:51:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:51:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:52:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:52:21 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:52:36 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:52:51 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:53:06 LOOKUPD(127.0.0.1:4160): sending heartbeat
+2021/07/09 14:53:21 LOOKUPD(127.0.0.1:4160): sending heartbeat

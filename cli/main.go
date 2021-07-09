@@ -1,7 +1,6 @@
 package main
 
 import (
-	"compress/gzip"
 	"flag"
 	"fmt"
 	"log"
@@ -30,10 +29,7 @@ func init() {
 }
 
 type FileLogger struct {
-	out        *os.File
-	gzipWriter *gzip.Writer
-	filename   string
-	logChan    chan *Message
+	logChan chan *Message
 }
 
 type Message struct {
@@ -110,13 +106,7 @@ func router(r *nsq.Reader, f *FileLogger, termChan chan os.Signal, hupChan chan 
 }
 
 func (f *FileLogger) Close() {
-	if f.out != nil {
-		if f.gzipWriter != nil {
-			f.gzipWriter.Close()
-		}
-		f.out.Close()
-		f.out = nil
-	}
+
 }
 func (f *FileLogger) Write(p []byte) (n int, err error) {
 	fmt.Printf(string(p))
@@ -135,7 +125,7 @@ func main() {
 	flag.Parse()
 
 	if *showVersion {
-		fmt.Printf("nsq_to_file v%s\n", util.BINARY_VERSION)
+		fmt.Printf("client v%s\n", util.BINARY_VERSION)
 		return
 	}
 
